@@ -20,7 +20,7 @@
 
 <li>Data Visualization (Charts, Graphs)</li>
 </ul>
-## 🎯 Project Functionalities
+ 🎯 Project Functionalities
 <ul>
 <li>Data Cleaning and Preprocessing:</li>
 
@@ -30,7 +30,7 @@
 
 <li>Formatting data consistently</li>
 </ul>
-### Data Analysis:
+Data Analysis:
 <ul>
 <li>Extracting actionable insights</li>
 
@@ -42,13 +42,14 @@ Visualization:
 
 <li>Informative and clear graphical representations</li>
 </ul>
-### Reporting:
+Reporting:
 <ul>
 <li>Generating easy-to-interpret Excel reports</li>
 
 <li>Summarizing key insights</li>
 </ul>
-## 📈 Key Insights and Findings
+
+📈 Key Insights and Findings
 
 <em>Sales Growth:</em>
 
