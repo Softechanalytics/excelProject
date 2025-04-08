@@ -107,9 +107,9 @@ Visualization:
 
 <p>These insights can directly inform strategic business decisions related to pricing, marketing, and supply chain management.</p>
 
-##📸 Project Screenshots
+## 📸 Project Screenshots
 
-(Include screenshots of your Excel dashboard or visualizations here. For example:)
+![images](images/excel.jpg)
 
 
 
