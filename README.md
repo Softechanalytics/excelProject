@@ -132,7 +132,7 @@ List potential enhancements or further analyses you plan to explore in the futur
 
 Feel free to reach out:
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/chukwuemekaanyakwu2409
 
 GitHub:
 
